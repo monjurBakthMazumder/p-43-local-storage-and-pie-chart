@@ -1,0 +1,43 @@
+
+   [
+    {
+      "id": 1,
+      "exam": "PSC",
+      "color": "green"
+    },
+    {
+      "id": 2,
+      "exam": "JSC",
+      "color": "blue"
+    },
+    {
+      "id": 3,
+      "exam": "SSC",
+      "color": "red"
+    },
+    {
+      "id": 4,
+      "exam": "HSC",
+      "color": "purple"
+    },
+    {
+      "id": 5,
+      "exam": "BSc",
+      "color": "orange"
+    },
+    {
+      "id": 6,
+      "exam": "MSc",
+      "color": "pink"
+    },
+    {
+      "id": 7,
+      "exam": "PhD",
+      "color": "brown"
+    },
+    {
+      "id": 8,
+      "exam": "BCS",
+      "color": "cyan"
+    }
+  ]
